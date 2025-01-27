@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Alcaldía Barcelona</title>
-     <link rel="stylesheet" href="estilos/estilos.css">
+     <link rel="stylesheet" href="Estilos/estilos.css">
 </head>
 <body>
-    <?php
-    include_once("./inc/nav.php");
-    ?>
+    
+    <?php include("inc/nav.php") ?>
+
 </body>
 </html>
